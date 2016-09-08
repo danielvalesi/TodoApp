@@ -24,6 +24,12 @@ app.config(function($stateProvider, $urlRouterProvider) {
     templateUrl: 'templates/lista.html'
   });
   
+  $stateProvider.state('novo', {
+    url: '/novo',
+    templateUrl: 'templates/novo.html'
+  });
+  
+  // Pagina inicial
   $urlRouterProvider.otherwise('/lista');
   
 });

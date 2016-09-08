@@ -1,8 +1,6 @@
 app.factory('TodoService', function() {
 	 var tarefas = 
    
-   
-   
    [
       {
         "id" : 1,
@@ -31,6 +29,10 @@ app.factory('TodoService', function() {
     	
     	read: function() {
     		return tarefas;
-    	}
+    	},
+      
+      create: function(tarefa) {
+        tarefas.push(tarefa);
+      }
     }
 });
