@@ -1,0 +1,42 @@
+<ion-view>
+  <ion-content ng-controller="listCtrl">
+        <!-- BUSCA -->
+        <div class="list list-inset">
+          <label class="item item-input">
+            <i class="icon ion-search placeholder-icon"></i>
+            <input type="text" placeholder="BUSCAR" ng-model="filtro">
+          </label>
+        </div>
+        <!-- LISTA DE ATIVIDADES EM ABERTO -->
+        <ion-list>
+          <div class="item item-divider">
+            A FAZER
+          </div>
+          <ion-checkbox ng-repeat="t in tarefas | filter:filtro" ng-hide="t.concluida">
+            <h2>{{t.texto}}</h2>
+          </ion-checkbox>
+        </ion-list>
+        <!-- LISTA DE ATIVIDADES CONCLUÍDAS -->
+        <ion-list>
+            <div class="item item-divider">
+              CONCLUÍDAS
+            </div>
+            <ion-item class="item-icon-left" ng-repeat="t in tarefas | filter:filtro" ng-show="t.concluida">
+                <h2>{{t.texto}}</h2>
+                <i class="icon ion-android-done"></i>
+            </ion-item>
+        </ion-list>
+        <!-- LISTA DE ATIVIDADES MISTURADO -->
+        <ion-list>
+            <div class="item item-divider">
+              TUDO MISTURADO
+            </div>
+            <!-- Remove o ng-show / faz o if na class -->
+            <ion-item class="item-icon-left" ng-repeat="t in tarefas | filter:filtro">
+                <h2>{{t.texto}}</h2>
+                <!-- <i class="icon {{(t.concluida ? 'ion-happy-outline' : 'ion-sad')}}"></i> -->
+                <i ng-class="{'icon ion-happy-outline' : t.concluida, 'icon ion-sad' : !t.concluida}"></i>
+            </ion-item>
+        </ion-list>
+    </ion-content>
+</ion-view>
