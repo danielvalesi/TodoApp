@@ -1,0 +1,1536 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"ow",
+				"owl.carousel.css"
+			],
+			[
+				"backgroun",
+				"background-position"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"s",
+				"sobre-a-tropica.png\tw:290 h:81"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"box-s",
+				"box-shadow"
+			],
+			[
+				"marign",
+				"margin-top"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"img",
+				"img-responsive"
+			],
+			[
+				"op",
+				"op-left.png\tw:14 h:43"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"data-s",
+				"data-sub-html"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"upp",
+				"uppercase"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"current",
+				"current_term"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"the",
+				"the_title"
+			],
+			[
+				"inline",
+				"inline-table"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"hi",
+				"hidden"
+			],
+			[
+				"margint",
+				"margin-top"
+			],
+			[
+				"lef",
+				"left"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"tabl",
+				"table-cell"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"inl",
+				"inline-table"
+			],
+			[
+				"in",
+				"inline-table"
+			],
+			[
+				"else",
+				"elseif\telseif …"
+			],
+			[
+				"backgroun-",
+				"background-position"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"helvetica",
+				"HelveticaNeue"
+			],
+			[
+				"fon-",
+				"font-size"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"ico",
+				"ico-envie_sua_mensagem.png\tw:30 h:30"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"v",
+				"videos.png\tw:67 h:60"
+			],
+			[
+				"magin",
+				"margin-bottom"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"brc",
+				"border-color"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"st",
+				"style.min.css"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"backo",
+				"background-color"
+			],
+			[
+				"i",
+				"img/"
+			],
+			[
+				"repea",
+				"repeat-x"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"bol",
+				"bolder"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"lo",
+				"logo-unicesumar.png\tw:256 h:55"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"imagem-age",
+				"imagem-agenda3.jpg\tw:174 h:124"
+			],
+			[
+				"ima",
+				"imagem-destaque3.jpg\tw:167 h:135"
+			],
+			[
+				"im",
+				"imagem-destaque1.jpg\tw:167 h:135"
+			],
+			[
+				"url",
+				"urlWebservice"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"se",
+				"setinha.jpg\tw:13 h:9"
+			],
+			[
+				"cel",
+				"cellspacing\tAttr"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"b",
+				"banner.jpg\tw:1920 h:944"
+			],
+			[
+				"kri",
+				"kriko_r4_c1.jpg\tw:600 h:280"
+			],
+			[
+				"imagem-acao",
+				"imagem-acao4.jpg\tw:265 h:170"
+			],
+			[
+				"imagem-aca",
+				"imagem-acao3.jpg\tw:265 h:170"
+			],
+			[
+				"imagem-ac",
+				"imagem-acao2.jpg\tw:265 h:170"
+			],
+			[
+				"imagem",
+				"imagem-destaque4.jpg\tw:270 h:160"
+			],
+			[
+				"imagem-des",
+				"imagem-destaque3.jpg\tw:270 h:160"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"marin",
+				"margin-bottom"
+			],
+			[
+				"mag",
+				"margin-top"
+			],
+			[
+				"trans",
+				"transition\tCSS - transition: ;"
+			],
+			[
+				"inlin",
+				"inline-table"
+			],
+			[
+				"cit",
+				"citytouritacare.jpg\tw:298 h:138"
+			],
+			[
+				"bg",
+				"bg-content.jpg\tw:1920 h:1022"
+			],
+			[
+				"pe",
+				"pescaoceanica.jpg\tw:298 h:138"
+			],
+			[
+				"e",
+				"esporte-lazer/"
+			],
+			[
+				"t",
+				"tour_praia.htm"
+			],
+			[
+				"tou",
+				"tour_bardocanal.htm"
+			],
+			[
+				"bar",
+				"tour_barcarambola.htm"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"logo",
+				"logo-rodape.png\tw:160 h:150"
+			],
+			[
+				"for",
+				"forum-fvg.jpg\tw:275 h:171"
+			],
+			[
+				"de",
+				"destaques.png\tw:565 h:50"
+			],
+			[
+				"a",
+				"apartamento-adaptado.php"
+			],
+			[
+				"ic",
+				"icone-trip.png\tw:26 h:16"
+			],
+			[
+				"ind",
+				"independencia-consciencia-negra.php"
+			],
+			[
+				"m",
+				"m-aldeia.png\tw:640 h:400"
+			],
+			[
+				"na",
+				"Náutica-e-Pesca_2.jpg\tw:375 h:263"
+			],
+			[
+				"ba",
+				"Bangalo_Senior_1.jpg\tw:357 h:263"
+			],
+			[
+				"apartamento-lu",
+				"apartamento-luxo-sul.php"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"thu",
+				"thumb-tour360.jpg\tw:180 h:83"
+			],
+			[
+				"reser",
+				"reserva-resumo.php"
+			],
+			[
+				"backgroi",
+				"background-size"
+			],
+			[
+				"backgrou",
+				"background-image"
+			],
+			[
+				"FONT-",
+				"font-weight"
+			],
+			[
+				"trn",
+				"transparent"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"bor",
+				"border-bottom-color"
+			],
+			[
+				"border",
+				"border-right-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 187.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ma",
+				"Material Theme: Configuration"
+			],
+			[
+				"materal",
+				"Material Theme: Activate theme"
+			],
+			[
+				"material",
+				"Material Theme: Configuration"
+			],
+			[
+				"comm",
+				"Snippet: Section Comment"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"note",
+				"Notes: Inbox"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"mate",
+				"Material Theme: Activate theme"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"com",
+				"Snippet: Comment - Section header comment"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"comen",
+				"Snippet: Comment - Section header comment"
+			],
+			[
+				"css comm",
+				"Snippet: Comment - Subsection comment"
+			],
+			[
+				"comme",
+				"Snippet: Comment - Full section comment"
+			],
+			[
+				"proj",
+				"Project: Close"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"e",
+				"Emmet: Balance (inward)"
+			],
+			[
+				"HTLM",
+				"HTMLPrettify"
+			],
+			[
+				"reid",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"redin",
+				"Tag: Remove Picked Tags in Document"
+			],
+			[
+				"reiden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"live",
+				"LiveStyle: Apply Patch"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"COM",
+				"Snippet: comment-section"
+			],
+			[
+				"commen",
+				"Snippet: comment-section"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"HTML",
+				"Set Syntax: HTML"
+			],
+			[
+				"pre",
+				"HTMLPrettify"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 446.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/danie/Google Drive/- FATEC/5º Semestre/Programação de Dispositivos Moveis/Ionic/TodoApp"
+	],
+	"file_history":
+	[
+		"/C/Users/danie/Desktop/casadovidro/index.php",
+		"/C/Users/danie/Desktop/casadovidro/functions.php",
+		"/C/Users/danie/Desktop/casadovidro/footer.php",
+		"/C/Users/danie/Desktop/casadovidro/single-servicos.php",
+		"/C/Users/danie/Desktop/casadovidro/sftp-config.json",
+		"/C/Users/danie/Desktop/casadovidro/style.css",
+		"/C/wamp/www/kawasakione.com.br/wp-content/themes/kawasaki-one/single-motocicletas.php",
+		"/C/wamp/www/direcione.com.br/direcione/new/wp-content/themes/direcione/index.php",
+		"/C/Users/danie/Desktop/casadovidro/js/main.js",
+		"/C/Users/danie/Desktop/casadovidro/header.php",
+		"/C/wamp/www/direcione.com.br/direcione/new/wp-content/themes/direcione/functions.php",
+		"/C/wamp/www/direcione.com.br/direcione/new/wp-content/themes/direcione/header.php",
+		"/C/wamp/www/kawasakione.com.br/wp-content/themes/kawasaki-one/page-produtos.php",
+		"/C/wamp/www/kawasakione.com.br/wp-content/themes/kawasaki-one/loop-produtos.php",
+		"/C/wamp/www/kawasakione.com.br/wp-content/themes/kawasaki-one/index.php",
+		"/C/Users/danie/Desktop/casadovidro/servicos-single.php",
+		"/C/Users/danie/Desktop/casadovidro/index.html",
+		"/C/wamp/www/kawasakione.com.br/wp-content/themes/kawasaki-one/page.php",
+		"/C/wamp/www/tropicabotanica.com.br/wp-content/themes/tropica-botanica-child/header.php",
+		"/C/Users/danie/Desktop/casadovidro/.htaccess",
+		"/C/Users/danie/Desktop/.htaccess",
+		"/C/Users/danie/Desktop/wp-config.php",
+		"/C/wamp/www/kawasakione.com.br/wp-content/themes/kawasaki-one/header.php",
+		"/C/wamp/www/iscei.org.br/wp-content/themes/iscei/header.php",
+		"/C/wamp/www/tropicabotanica.com.br/wp-content/themes/tropica-botanica/style.css",
+		"/C/Users/danie/Desktop/casadovidro/assets/main.js",
+		"/C/wamp/www/direcione.com.br/direcione/new/wp-content/themes/direcione/js/main.js",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Multi In/2015/www.multiin.com.br/wp-content/themes/multiin2015/js/main.js",
+		"/C/Users/danie/Desktop/casadovidro/assets/owl-carousel/owl.carousel.css",
+		"/C/Users/danie/Desktop/style.css",
+		"/C/Users/danie/Desktop/index.html",
+		"/C/wamp/www/tropicabotanica.com.br/wp-content/themes/tropica-botanica/assets/js/main.js",
+		"/C/wamp/www/tropicabotanica.com.br/wp-content/themes/tropica-botanica/inc/woocommerce/storefront-woocommerce-template-functions.php",
+		"/C/wamp/www/tropicabotanica.com.br/wp-content/themes/tropica-botanica-child/functions.php",
+		"/C/wamp/www/tropicabotanica.com.br/wp-content/themes/tropica-botanica-child/archive.php",
+		"/C/wamp/www/tropicabotanica.com.br/wp-content/themes/tropica-botanica-child/blog.php",
+		"/C/wamp/www/tropicabotanica.com.br/wp-content/themes/tropica-botanica/inc/storefront-template-functions.php",
+		"/C/wamp/www/tropicabotanica.com.br/wp-content/themes/tropica-botanica-child/inc/storefront-template-functions.php",
+		"/C/wamp/www/tropicabotanica.com.br/wp-content/themes/tropica-botanica/content-single.php",
+		"/C/wamp/www/tropicabotanica.com.br/wp-content/themes/tropica-botanica-child/single.php",
+		"/C/wamp/www/tropicabotanica.com.br/wp-content/themes/tropica-botanica-child/style.css",
+		"/C/wamp/www/tropicabotanica.com.br/wp-content/themes/tropica-botanica-child/index.php",
+		"/C/wamp/www/tropicabotanica.com.br/wp-content/themes/tropica-botanica-child/footer.php",
+		"/C/wamp/www/tropicabotanica.com.br/wp-content/themes/tropica-botanica-child/wp_bootstrap_navwalker.php",
+		"/C/wamp/www/tropicabotanica.com.br/wp-includes/functions.php",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Sanautica/Sanautica.com.br/wp-content/themes/sanautica/footer.php",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Tropica/tropicabotanica.com.br/index.html",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Sanautica/Sanautica.com.br/wp-content/themes/sanautica/header.php",
+		"/C/wamp/www/tropicabotanica.com.br/wp-includes/theme-compat/header.php",
+		"/C/wamp/www/tropicabotanica.com.br/wp-content/plugins/woocommerce/templates/loop/loop-start.php",
+		"/C/wamp/www/tropicabotanica.com.br/wp-content/plugins/woocommerce/includes/admin/views/html-admin-page-addons.php",
+		"/C/wamp/www/tropicabotanica.com.br/sftp-config.json",
+		"/C/wamp/www/sanautica.com.br/wp-content/themes/sanautica/footer.php",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Tropica/tropicabotanica.com.br/style.css",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Tropica/tropicabotanica.com.br/fonts/sinkinsans_300/stylesheet.css",
+		"/C/wamp/www/wordpress/wp-content/themes/tropica-botanica/header.php",
+		"/C/wamp/alias/phpmyadmin.conf",
+		"/C/wamp/www/wordpress/wp-content/themes/mystile/index.php",
+		"/C/wamp/www/wordpress/wp-content/themes/mystile/style.css",
+		"/C/wamp/www/wordpress/wp-content/themes/tropica-botanica/style.css",
+		"/C/wamp/www/wordpress/wp-content/themes/tropica-botanica-child/style.css",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Tropica/tropicabotanica.com.br/fonts/sinkinsans_500medium_macroman/stylesheet.css",
+		"/C/Users/danie/Desktop/AppLivros/index.html",
+		"/C/Users/danie/AppData/Roaming/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/C/Users/danie/Dropbox/Notes/.brain/Inbox.note",
+		"/C/Users/danie/Documents/Ionic/TodoApp/www/js/app.js",
+		"/C/Users/danie/Documents/Ionic/TodoApp/www/index.html",
+		"/C/Users/danie/Desktop/Ionic",
+		"/C/Users/danie/Google Drive/- Projetos/E-Dublin/Orçamento Facil/front-end/orcamento_facil.html",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Kawasaki One/kawasakione.com.br/wp-content/themes/kawasaki-one/js/main.js",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Kawasaki One/kawasakione.com.br/wp-content/themes/kawasaki-one/footer.php",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Kawasaki One/kawasakione.com.br/wp-content/themes/kawasaki-one/style.css",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Kawasaki One/kawasakione.com.br/wp-content/themes/kawasaki-one/single.php",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Kawasaki One/kawasakione.com.br/wp-content/themes/kawasaki-one/archive.php",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Kawasaki One/kawasakione.com.br/wp-content/themes/kawasaki-one/single-motocicletas.php",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Kawasaki One/kawasakione.com.br/wp-content/themes/kawasaki-one/single-produto.php",
+		"/C/Users/danie/Google Drive/- Projetos/E-Dublin/Orçamento Facil/front-end/index.html",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Kawasaki One/kawasakione.com.br/wp-content/themes/kawasaki-one/functions.php",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Kawasaki One/kawasakione.com.br/wp-config.php",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Kawasaki One/kawasakione.com.br/wp-content/themes/kawasaki-one/archive-seminovos.php",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Kawasaki One/kawasakione.com.br/wp-content/themes/kawasaki-one/page-kawasaki.php",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Kawasaki One/kawasakione.com.br/wp-content/themes/kawasaki-one/header.php",
+		"/C/Users/danie/Desktop/kawasakione.com.br 2016.08.24/installer (3).php",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Kawasaki One/kawasakione.com.br/phpinfo.php",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Kawasaki One/kawasakione.com.br/.htaccess",
+		"/C/wamp/www/kawasakibkp/wp-content/themes/kawasaki-one/functions.php",
+		"/C/wamp/www/kawasakierro/wp-content/themes/kawasaki-one/functions.php",
+		"/C/wamp/www/kawasakierro/wp-config.php",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Kawasaki One/kawasakione.com.br/sftp-config.json",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Kawasaki One/Backup Erro/wp-config.php",
+		"/C/wamp/www/kawasaki/wp-content/themes/kawasaki-one/functions.php",
+		"/C/wamp/www/kawasaki/wp-config.php",
+		"/C/Users/danie/Desktop/footer.php",
+		"/C/Users/danie/Desktop/Oficial/cliente/index.php",
+		"/C/Users/danie/Desktop/Oficial/.htaccess",
+		"/C/Users/danie/Desktop/Oficial/index.htm",
+		"/C/Users/danie/Desktop/update_kawasaki",
+		"/C/Users/danie/Google Drive/Desenvolvimento/Replace Wordpress.txt",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Kawasaki One/kawasakione.com.br/index.html",
+		"/C/Users/danie/Desktop/construweek/index.html",
+		"/F/teixeiraduarte.com.br/wp-content/themes/teixeiraduarte/style.css",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Kawasaki One/kawasakione.com.br/wp-content/themes/kawasaki-one/page-produtos.php",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Kawasaki One/kawasakione.com.br/wp-content/themes/kawasaki-one/page-produtos-loop.php",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Kawasaki One/kawasakione.com.br/wp-content/themes/kawasaki-one/index.php",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Kawasaki One/kawasakione.com.br/wp-content/themes/kawasaki-one/single-seminovos.php",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Kawasaki One/kawasakione.com.br/wp-content/themes/kawasaki-one/single-nautica.php",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Kawasaki One/kawasakione.com.br/wp-content/themes/kawasaki-one/single-utilitarios.php",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Kawasaki One/kawasakione.com.br/wp-content/themes/kawasaki-one/css/owl-carousel.css",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Kawasaki One/kawasakione.com.br/wp-content/themes/kawasaki-one/js/owl-carousel.js",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Kawasaki One/kawasakione.com.br/wp-content/themes/kawasaki-one/loop-produtos.php",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Kawasaki One/kawasakione.com.br/wp-content/themes/kawasaki-one/category.php",
+		"/C/Users/danie/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Kawasaki One/kawasakione.com.br/wp-content/themes/kawasaki-one/produto-conteudo.php",
+		"/C/Users/danie/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/C/Users/danie/Desktop/php.ini",
+		"/C/Users/danie/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Kawasaki One/kawasakione.com.br/wp-content/themes/kawasaki-one/searchform.php",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Kawasaki One/kawasakione.com.br/wp-content/themes/kawasaki-one/noticias.php",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Kawasaki One/kawasakione.com.br/wp-content/themes/kawasaki-one/search.php",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Kawasaki One/kawasakione.com.br/wp-content/themes/kawasaki-one/archive-motocicletas.php",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Kawasaki One/kawasakione.com.br/wp-content/themes/kawasaki-one/404.php",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/Kawasaki One/kawasakione.com.br/wp-content/themes/kawasaki-one/single-motocicleta.php",
+		"/C/wamp/www/wordpress/wp-content/themes/kawasaki-one/footer.php",
+		"/C/wamp/www/wordpress/wp-content/themes/kawasaki-one/header.php",
+		"/C/Users/danie/Google Drive/- Projetos/Freela/Teixeira Duarte/teixeiraduarte.com.br/wp-content/themes/teixeiraduarte/functions.php",
+		"/C/Users/danie/Google Drive/- Projetos/Freela/Teixeira Duarte/teixeiraduarte.com.br/wp-content/themes/teixeiraduarte/taxonomy-atuacao.php",
+		"/C/Users/danie/Google Drive/- Projetos/Freela/Teixeira Duarte/teixeiraduarte.com.br/wp-content/themes/teixeiraduarte/js/main.js",
+		"/C/Users/danie/Google Drive/- Projetos/Multi In/- Projeto Base/wordpress/wp-content/themes/blank/footer.php"
+	],
+	"find":
+	{
+		"height": 49.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"agenda",
+			"nav navbar-nav",
+			"s-example-navbar-collapse-1",
+			"h3",
+			"’",
+			"‘",
+			"Kawasaki",
+			"direcionenew-48ba.kxcdn.com/new",
+			"src=\"img",
+			"url",
+			"<div class=\"darkness\">\n    \t    \t\t\t</div>",
+			"height: 672px;",
+			"fixed",
+			"navbar",
+			"servicos",
+			"<img src=\"img/produto.jp",
+			"produto",
+			"ssets/owl",
+			"casa d",
+			"url('",
+			"&quot",
+			"storefront_paging_nav",
+			"storefront_single_post_after",
+			"posted_on",
+			"entry-meta",
+			"storefront_post_header",
+			"entry-header",
+			"posted",
+			"single",
+			"next",
+			"prev",
+			"navigation: true,",
+			"schema.org/product",
+			"sidebar",
+			"menu_institucional",
+			"midias-sociais",
+			"site-info",
+			"class=\"products\"",
+			"storefront-sorting",
+			"#63A28D",
+			"fontes",
+			"url('S",
+			"url('",
+			"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/",
+			"tarefas",
+			"concluido",
+			"galeria",
+			">\n",
+			"href",
+			"'",
+			"$termo",
+			"http://localhost:82/kawasakierro/",
+			"kawasakibkp",
+			"http://www.kawasakione.com.br",
+			"href=\"\"",
+			"instagram",
+			"65px",
+			"youtube",
+			"facebook",
+			"href",
+			"newurl",
+			"oldurl",
+			"!",
+			"class=\"scroll",
+			"\">",
+			"class=\"scroll\"",
+			"bod",
+			"caract",
+			"id=\"slider\"",
+			"theme",
+			"produto-carousel",
+			"owl-carousel",
+			"carousel",
+			"owl-carous",
+			"slider",
+			"moto_",
+			"Moto",
+			"moto",
+			"descrica",
+			"gale",
+			" hre",
+			"caract",
+			"temOutros",
+			"inde",
+			"line",
+			"″",
+			"“",
+			"”",
+			"20px",
+			"hover",
+			"produtos",
+			"variavel",
+			"outros",
+			"transmissao",
+			"nbsp",
+			"•&nbsp;",
+			"nbsp",
+			"&nbsp;",
+			"<strong>&nbsp;",
+			"&nbsp;<strong>",
+			"especificacoes",
+			"headingOne",
+			"collapseOne",
+			"headingOne",
+			"motocicle",
+			"marcha",
+			"&nbsp;",
+			"hierarchical",
+			"”",
+			"’",
+			"‘",
+			"false",
+			"Mundo Spyder",
+			"menu",
+			"titulo",
+			"p",
+			"motocicletas",
+			"nautica",
+			"motocicletas",
+			"has_archive",
+			"#rodape .contato .form-contro",
+			".m",
+			"64M",
+			"64",
+			"motocicletas",
+			"Motocicletas",
+			"nuti",
+			"h2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<a target=\"_self\" href=\"<?php echo esc_url( home_url( '/blog' ) ); ?>\">",
+			"get_terms('category', 'orderby=name&hide_empty=1') as $cat)",
+			"",
+			"<div class=\"container\"><?php echo $idioma->apartamentosVejaOutros; ?></div>",
+			"img src=\"http://cclinet.com.br/news/2015-09/images/",
+			"<?php echo $idioma->$observacoesItem1; ?><br>\n          <?php echo $idioma->$observacoesItem2; ?><br>\n          <?php echo $idioma->$observacoesItem4; ?><br>\n          <?php echo $idioma->$observacoesItem3; ?><br>\n          <?php echo $idioma->$observacoesItem5; ?>     ",
+			"- <?php echo $idioma->$observacoesItem4; ?>",
+			"- <?php echo $idioma->$observacoesItem5; ?>",
+			"- <?php echo $idioma->$observacoesItem3; ?>",
+			"- <?php echo $idioma->$observacoesItem2; ?>",
+			"- <?php echo $idioma->$observacoesItem1; ?>",
+			"<h3><?php echo $idioma->horariosValores; ?></h3>",
+			"<?php echo $idioma->observacoes; ?>",
+			"restauranteVerbena",
+			"<h2><?php echo $idioma->restauranteAnturius; ?></h2>",
+			"<h2><?php echo $idioma->pianoBar; ?></h2>",
+			"<h2><?php echo $idioma->restauranteVerbana; ?></h2>",
+			"<h2><?php echo $idioma->restauranteVerbena; ?></h2>\n          <ul>\n            <li><?php echo $idioma->apartamentoAdaptadoItem1; ?></li>\n            <li><?php echo $idioma->apartamentoAdaptadoItem2; ?></li>\n            <li><?php echo $idioma->apartamentoAdaptadoItem3; ?></li>\n          </ul>",
+			"<h3><?php echo $idioma->apartamentoAdaptado; ?></h3>\n          <ul>\n            <li><?php echo $idioma->apartamentoAdaptadoItem1; ?></li>\n            <li><?php echo $idioma->apartamentoAdaptadoItem2; ?></li>\n            <li><?php echo $idioma->apartamentoAdaptadoItem3; ?></li>\n          </ul>",
+			"<h3><?php echo $idioma->apartamentoGoldenpremium; ?></h3>\n          <ul>\n            <li><?php echo $idioma->apartamentoGoldenpremiumItem1; ?></li>\n            <li><?php echo $idioma->apartamentoGoldenpremiumItem2; ?></li>\n            <li><?php echo $idioma->apartamentoGoldenpremiumItem3; ?></li>\n          </ul>",
+			"<h3><?php echo $idioma->apartamentoGoldenpremium; ?></h3>\n          <ul>\n            <li><?php echo $idioma->apartamentoGoldenPremiumItem1; ?></li>\n            <li><?php echo $idioma->apartamentoGoldenPremiumItem2; ?></li>\n            <li><?php echo $idioma->apartamentoGoldenPremiumItem3; ?></li>\n          </ul>",
+			"<h3><?php echo $idioma->apartamentoGoldenclass; ?></h3>\n          <ul>\n            <li><?php echo $idioma->apartamentoGoldenClassItem1; ?></li>\n            <li><?php echo $idioma->apartamentoGoldenClassItem2; ?></li>\n            <li><?php echo $idioma->apartamentoGoldenClassItem3; ?></li>\n          </ul>",
+			"<h3><?php echo $idioma->apartamentoGoldenclass; ?></h3>\n          <ul>\n            <li><?php echo $idioma->apartamentoGoldenclassItem1; ?></li>\n            <li><?php echo $idioma->apartamentoGoldenclassItem2; ?></li>\n            <li><?php echo $idioma->apartamentoGoldenclassItem3; ?></li>\n          </ul>",
+			"<ul class=\"icones list-unstyled list-inline\">\n            <li class=\"item\"><img alt=\"Wi-fi\" src=\"assets/img/icone-wifi.png\" /></li>\n            <li class=\"item\"><img alt=\"Proibido Fumar\" src=\"assets/img/icone-smoking.png\" /></li>\n          </ul>\n          <div class=\"botoes\">",
+			"<h3><?php echo $idioma->apartamentoAdaptado; ?></h3>",
+			"<h3><?php echo $idioma->apartamentoGoldenpremium; ?></h3>",
+			"> <a title=\"<?php echo $idioma->apartamentos; ?>\" href=\"apartamento.php\">",
+			"href=\"apartamento.php\"\n            <li class=\"item\"><img alt=\"Wi-fi\" src=\"assets/img/icone-wifi.png\" /><?php echo $idioma->apartamentoWiFi; ?></li>",
+			"<ul class=\"icones list-unstyled\">\n            <li class=\"item\"><img alt=\"Wi-fi\" src=\"assets/img/icone-wifi.png\" /><?php echo $idioma->apartamentoWiFi; ?></li>",
+			"<ul class=\"icones list-unstyled\">\n              <li class=\"item\"><img alt=\"Wi-fi\" src=\"assets/img/icone-wifi.png\" /><?php echo $idioma->apartamentoWiFi; ?></li>",
+			"<li class=\"item\"><img alt=\"Proibido Fumar\" src=\"assets/img/icone-smoking.png\" /><?php echo $idioma->apartamentoNaoFumantes; ?></li>",
+			"<li class=\"item\"><img alt=\"Wi-fi\" src=\"assets/img/icone-wifi.png\" /><?php echo $idioma->apartamentoWiFi; ?></li>",
+			"<h3><?php echo $idioma->descricao; ?></h3>",
+			"<h3><?php echo $idioma->suiteTransamerica; ?></h3>",
+			"<h3><?php echo $idioma->suiteEsplanada; ?></h3>",
+			"<h3><?php echo $idioma->suiteAlvorada; ?></h3>",
+			"<?php echo $idioma->enviar; ?></button>",
+			"<h3><?php echo $idioma->suiteDiplomata; ?></h3>",
+			"<?php echo $idioma->ate; ?></div>",
+			"<?php echo $idioma->data; ?></label>",
+			"<?php echo $idioma->criancas; ?>:",
+			"<?php echo $idioma->adultos; ?>:",
+			"title=\"<?php echo $idioma->reservar; ?>\">\n                <?php echo $idioma->reservar; ?>",
+			"title=\"<?php echo $idioma->restauranteBotaoFacaReserva; ?>a\" href=\"#\"><?php echo $idioma->restauranteBotaoFacaReserva; ?></a>",
+			"<h3><?php echo $idioma->apartamentoGoldenclass; ?></h3>",
+			"class=\"leia-mais btn btn-primary\"",
+			"18%",
+			"mundospyder",
+			"<div class=\"galeriausados\">\n\n\t<div class=\"galeria10\">\n\t\t<?php $imageid = get_post_meta($post->ID, 'Image9', true); ?> \n\t\t<a href=\"<?php echo wp_get_attachment_url( $imageid ); ?>\" rel=\"prettyPhoto[galeria_usados]\">\n\t\t\t<img src=\"<?php echo wp_get_attachment_url( $imageid ); ?>\"width=\"200\" height=\"135\" />\n\t\t</a>\n\t</div>\n\n\t<div class=\"galeria11\">\n\t\t<?php $imageid = get_post_meta($post->ID, 'Image10', true); ?> \n\t\t<a href=\"<?php echo wp_get_attachment_url( $imageid ); ?>\" rel=\"prettyPhoto[galeria_usados]\">\n\t\t\t<img src=\"<?php echo wp_get_attachment_url( $imageid ); ?>\"width=\"200\" height=\"135\" />\n\t\t</a>\n\t</div>\n\n\t<div class=\"galeria12\">\n\t\t<?php $imageid = get_post_meta($post->ID, 'Image11', true); ?> \n\t\t<a href=\"<?php echo wp_get_attachment_url( $imageid ); ?>\" rel=\"prettyPhoto[galeria_usados]\">\n\t\t\t<img src=\"<?php echo wp_get_attachment_url( $imageid ); ?>\"width=\"200\" height=\"135\" />\n\t\t</a>\n\t</div>\n\n\t<div class=\"galeria13\">\n\t\t<?php $imageid = get_post_meta($post->ID, 'Image13', true); ?> \n\t\t<a href=\"<?php echo wp_get_attachment_url( $imageid ); ?>\" rel=\"prettyPhoto[galeria_usados]\">\n\t\t\t<img src=\"<?php echo wp_get_attachment_url( $imageid ); ?>\"width=\"200\" height=\"135\" />\n\t\t</a>\n\t</div>\n\n\t<div class=\"galeria14\">\n\t\t<?php $imageid = get_post_meta($post->ID, 'Image14', true); ?> \n\t\t<a href=\"<?php echo wp_get_attachment_url( $imageid ); ?>\" rel=\"prettyPhoto[galeria_usados]\">\n\t\t\t<img src=\"<?php echo wp_get_attachment_url( $imageid ); ?>\"width=\"200\" height=\"135\" />\n\t\t</a>\n\t</div>\n\n</div>",
+			"museo500",
+			";",
+			"museo300",
+			"'museo300'",
+			"qualquercoisa"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 64.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.705764075067,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.jotter":
+	{
+		"height": 164.0
+	},
+	"output.sftp":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "TodoApp.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"child/index",
+				"wp-content\\themes\\tropica-botanica-child\\index.php"
+			],
+			[
+				"main",
+				"wp-content\\themes\\tropica-botanica\\assets\\js\\main.js"
+			],
+			[
+				"sty",
+				"wp-content\\themes\\tropica-botanica-child\\style.css"
+			],
+			[
+				"header",
+				"wp-content\\themes\\tropica-botanica-child\\header.php"
+			],
+			[
+				"functions.pp",
+				"wp-content\\themes\\tropica-botanica-child\\functions.php"
+			],
+			[
+				"func",
+				"wp-includes\\functions.php"
+			],
+			[
+				"single-se",
+				"wp-content\\themes\\kawasaki-one\\single-seminovos.php"
+			],
+			[
+				"single-mo",
+				"wp-content\\themes\\kawasaki-one\\single-motocicletas.php"
+			],
+			[
+				"index",
+				"wp-content\\themes\\kawasaki-one\\index.php"
+			],
+			[
+				"loop",
+				"wp-content\\themes\\kawasaki-one\\loop-produtos.php"
+			],
+			[
+				"inde",
+				"wp-content\\themes\\kawasaki-one\\index.php"
+			],
+			[
+				"heade",
+				"wp-content\\themes\\kawasaki-one\\header.php"
+			],
+			[
+				"",
+				"wp-content\\themes\\kawasaki-one\\js\\main.js"
+			],
+			[
+				"page",
+				"wp-content\\themes\\kawasaki-one\\page.php"
+			],
+			[
+				"funcito",
+				"wp-content\\themes\\kawasaki-one\\functions.php"
+			],
+			[
+				"style",
+				"wp-content\\themes\\kawasaki-one\\style.css"
+			],
+			[
+				"single",
+				"wp-content\\themes\\kawasaki-one\\single-nautica.php"
+			],
+			[
+				"main.",
+				"wp-content\\themes\\kawasaki-one\\js\\main.js"
+			],
+			[
+				"main.h",
+				"wp-content\\themes\\kawasaki-one\\index.php"
+			],
+			[
+				"stye",
+				"wp-content\\themes\\kawasaki-one\\style.css"
+			],
+			[
+				"footer",
+				"wp-content\\themes\\kawasaki-one\\footer.php"
+			],
+			[
+				"single-imo",
+				"teixeiraduarte.com.br\\wp-content\\themes\\teixeiraduarte\\single-imovel.php"
+			],
+			[
+				"head",
+				"teixeiraduarte.com.br\\wp-content\\themes\\teixeiraduarte\\header.php"
+			],
+			[
+				"foo",
+				"teixeiraduarte.com.br\\wp-content\\themes\\teixeiraduarte\\footer.php"
+			],
+			[
+				"funcit",
+				"teixeiraduarte.com.br\\wp-includes\\functions.php"
+			],
+			[
+				"imo",
+				"teixeiraduarte.com.br\\wp-content\\themes\\teixeiraduarte\\single-imovel.php"
+			],
+			[
+				"taxono",
+				"teixeiraduarte.com.br\\wp-content\\themes\\teixeiraduarte\\taxonomy-estagio.php"
+			],
+			[
+				"atuacao",
+				"teixeiraduarte.com.br\\wp-content\\themes\\teixeiraduarte\\taxonomy-atuacao.php"
+			],
+			[
+				"construcao",
+				"teixeiraduarte.com.br\\wp-content\\themes\\teixeiraduarte\\construcao.php"
+			],
+			[
+				"single-vid",
+				"teixeiraduarte.com.br\\wp-content\\themes\\teixeiraduarte\\single-video.php"
+			],
+			[
+				"video",
+				"teixeiraduarte.com.br\\wp-content\\themes\\teixeiraduarte\\videos.php"
+			],
+			[
+				"imoveis",
+				"teixeiraduarte.com.br\\wp-content\\themes\\teixeiraduarte\\imoveis.php"
+			],
+			[
+				"sin",
+				"teixeiraduarte.com.br\\wp-content\\themes\\teixeiraduarte\\single-imovel.php"
+			],
+			[
+				"duarte/index",
+				"teixeiraduarte.com.br\\wp-content\\themes\\teixeiraduarte\\index.php"
+			],
+			[
+				"searchform",
+				"teixeiraduarte.com.br\\wp-content\\themes\\teixeiraduarte\\searchform.php"
+			],
+			[
+				"searchfo",
+				"teixeiraduarte.com.br\\wp-content\\themes\\twentysixteen\\searchform.php"
+			],
+			[
+				"side",
+				"teixeiraduarte.com.br\\wp-content\\themes\\teixeiraduarte\\sidebar.php"
+			],
+			[
+				"videos",
+				"teixeiraduarte.com.br\\wp-content\\themes\\teixeiraduarte\\videos.php"
+			],
+			[
+				"/teixeiraduarte/index",
+				"teixeiraduarte.com.br\\wp-content\\themes\\teixeiraduarte\\index.php"
+			],
+			[
+				"search",
+				"teixeiraduarte.com.br\\wp-content\\themes\\teixeiraduarte\\search.php"
+			],
+			[
+				"teixei",
+				"teixeiraduarte.com.br\\wp-content\\themes\\teixeiraduarte\\teixeira-duarte.php"
+			],
+			[
+				"main.j",
+				"teixeiraduarte.com.br\\wp-content\\themes\\teixeiraduarte\\js\\main.js"
+			],
+			[
+				"constru",
+				"teixeiraduarte.com.br\\wp-content\\themes\\teixeiraduarte\\construcao.php"
+			],
+			[
+				"st",
+				"teixeiraduarte.com.br\\wp-content\\themes\\teixeiraduarte\\style.css"
+			],
+			[
+				"foot",
+				"teixeiraduarte.com.br\\wp-content\\themes\\teixeiraduarte\\footer.php"
+			],
+			[
+				"main.js",
+				"teixeiraduarte.com.br\\wp-content\\themes\\teixeiraduarte\\js\\main.js"
+			],
+			[
+				"imovel",
+				"teixeiraduarte.com.br\\wp-content\\themes\\teixeiraduarte\\single-imovel.php"
+			],
+			[
+				"atua",
+				"teixeiraduarte.com.br\\wp-content\\themes\\teixeiraduarte\\taxonomy-atuacao.php"
+			],
+			[
+				"construc",
+				"teixeiraduarte.com.br\\wp-content\\themes\\teixeiraduarte\\single-construcao.php"
+			],
+			[
+				"constr",
+				"teixeiraduarte.com.br\\wp-content\\themes\\teixeiraduarte\\construcao.php"
+			],
+			[
+				"tei",
+				"teixeiraduarte.com.br\\wp-content\\themes\\teixeiraduarte\\teixeira-duarte.php"
+			],
+			[
+				"categor",
+				"teixeiraduarte.com.br\\wp-content\\themes\\teixeiraduarte\\category.php"
+			],
+			[
+				"noticia",
+				"teixeiraduarte.com.br\\wp-content\\themes\\teixeiraduarte\\noticias.php"
+			],
+			[
+				"duarte/foot",
+				"teixeiraduarte.com.br\\wp-content\\themes\\teixeiraduarte\\footer.php"
+			],
+			[
+				"foote",
+				"teixeiraduarte.com.br\\wp-includes\\theme-compat\\footer.php"
+			],
+			[
+				"duarte/index.php",
+				"teixeiraduarte.com.br\\wp-content\\themes\\teixeiraduarte\\index.php"
+			],
+			[
+				"taxon",
+				"teixeiraduarte.com.br\\wp-content\\themes\\teixeiraduarte\\taxonomy-atuacao.php"
+			],
+			[
+				"mundospyderblog.",
+				"Multi In\\Mundo Spyder BKP\\wp-content\\themes\\mundo_spyder\\blog.php"
+			],
+			[
+				"piano",
+				"piano-bar.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\danie\\Google Drive\\- Projetos\\Sublime Projects\\Kawasaki One.sublime-project"
+			],
+			[
+				"teixe",
+				"C:\\Users\\danie\\Google Drive\\- Projetos\\Sublime Projects\\Teixeira Duarte.sublime-project"
+			],
+			[
+				"tei",
+				"C:\\Users\\danie\\Google Drive\\- Projetos\\Sublime Projects\\Teixeira Duarte.sublime-project"
+			],
+			[
+				"isc",
+				"C:\\Users\\danie\\Google Drive\\- Projetos\\Sublime Projects\\Iscei.sublime-project"
+			],
+			[
+				"ka",
+				"C:\\Users\\danie\\Google Drive\\- Projetos\\Sublime Projects\\Kawasaki One.sublime-project"
+			],
+			[
+				"orça",
+				"C:\\Users\\danie\\Google Drive\\- Projetos\\Sublime Projects\\Orçamento Fácil.sublime-project"
+			],
+			[
+				"tre",
+				"C:\\Users\\danie\\Google Drive\\- Projetos\\Sublime Projects\\Trend Alert.sublime-project"
+			],
+			[
+				"te",
+				"C:\\Users\\danie\\Google Drive\\- Projetos\\Sublime Projects\\Teixeira Duarte.sublime-project"
+			],
+			[
+				"wamp",
+				"C:\\Users\\danie\\Google Drive\\- Projetos\\Sublime Projects\\Wamp.sublime-project"
+			],
+			[
+				"sana",
+				"C:\\Users\\danie\\Google Drive\\- Projetos\\Sublime Projects\\Sanáutica.sublime-project"
+			],
+			[
+				"teix",
+				"C:\\Users\\danie\\Google Drive\\- Projetos\\Sublime Projects\\Teixeira Duarte.sublime-project"
+			],
+			[
+				"mundo",
+				"C:\\Users\\danie\\Google Drive\\- Projetos\\Sublime Projects\\Mundo Spyder.sublime-project"
+			],
+			[
+				"mund",
+				"C:\\Users\\danie\\Google Drive\\- Projetos\\Sublime Projects\\Mundo Spyder.sublime-project"
+			],
+			[
+				"thum",
+				"C:\\Users\\danie\\Google Drive\\- Projetos\\Sublime Projects\\Thumb Blog.sublime-project"
+			],
+			[
+				"tr",
+				"C:\\Users\\danie\\Google Drive\\- Projetos\\Sublime Projects\\Trend Alert.sublime-project"
+			],
+			[
+				"tred",
+				"C:\\Users\\danie\\Google Drive\\- Projetos\\Sublime Projects\\Trend Alert.sublime-project"
+			],
+			[
+				"trend",
+				"C:\\Users\\danie\\Google Drive\\- Projetos\\Sublime Projects\\Trend Alert.sublime-project"
+			],
+			[
+				"asds",
+				"C:\\Users\\danie\\Google Drive\\- Projetos\\Sublime Projects\\Teixeira Duarte.sublime-project"
+			],
+			[
+				"tren",
+				"C:\\Users\\danie\\Google Drive\\- Projetos\\Sublime Projects\\Trend Alert.sublime-project"
+			],
+			[
+				"casa",
+				"C:\\Users\\danie\\Google Drive\\- Projetos\\Sublime Projects\\Casarini.sublime-project"
+			],
+			[
+				"san",
+				"C:\\Users\\danie\\Google Drive\\- Projetos\\Sublime Projects\\Sanáutica.sublime-project"
+			],
+			[
+				"sa",
+				"C:\\Users\\danie\\Google Drive\\- Projetos\\Sublime Projects\\Sanáutica.sublime-project"
+			],
+			[
+				"com",
+				"C:\\Users\\danie\\Google Drive\\- Projetos\\Sublime Projects\\ComandaEletronica.sublime-project"
+			],
+			[
+				"tend",
+				"C:\\Users\\danie\\Google Drive\\- Projetos\\Sublime Projects\\Trend Alert.sublime-project"
+			],
+			[
+				"treb",
+				"C:\\Users\\danie\\Google Drive\\- Projetos\\Sublime Projects\\Trend Alert.sublime-project"
+			],
+			[
+				"nor",
+				"C:\\Users\\danie\\Google Drive\\- Projetos\\Sublime Projects\\Norber.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 428.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
